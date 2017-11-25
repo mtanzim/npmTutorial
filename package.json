@@ -1,0 +1,26 @@
+{
+  "name": "@mtanzim/npm",
+  "version": "1.0.0",
+  "description": "Npm Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "mtanzim",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtanzim/npmTutorial.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/mtanzim/npmTutorial/issues"
+  },
+  "homepage": "https://github.com/mtanzim/npmTutorial#readme"
+}
